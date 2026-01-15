@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HomeHub.Api/HomeHub.Api.csproj" />
+  <Project Path="HomeHub.Application/HomeHub.Application.csproj" Id="10d1845d-430f-400e-b6a6-595495457108" />
+  <Project Path="HomeHub.Domain/HomeHub.Domain.csproj" Id="35373e5f-7769-403c-bea4-393146c7dabe" />
+  <Project Path="HomeHub.Infrastructure/HomeHub.Infrastructure.csproj" Id="d3aabfe3-eb5d-44d5-9399-b85225118235" />
+</Solution>
